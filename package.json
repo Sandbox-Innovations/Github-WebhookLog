@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "github-webhooklog",
+  "version": "1.0.0",
+  "description": "Webhook Logging for Github. Uses Ngrok Globally",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EmanSza",
+  "license": "MIT"
+}
